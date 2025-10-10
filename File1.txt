@@ -1,12 +1,4 @@
-3dprinting
-
-Software used
-Soildworks and Creo
-COMSOL, Ansys
-Ultimaker Cura
-
-Manufacturing
-
+Changed data 1
 Testing
 Surface Roughness
 Hardness Test
