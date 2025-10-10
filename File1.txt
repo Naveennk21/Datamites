@@ -1,0 +1,15 @@
+3dprinting
+
+Software used
+Soildworks and Creo
+COMSOL, Ansys
+Ultimaker Cura
+
+Manufacturing
+
+Testing
+Surface Roughness
+Hardness Test
+bead Width
+
+Improving
